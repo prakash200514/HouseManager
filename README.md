@@ -13,3 +13,20 @@ A simple and efficient House Rental Management System designed to help users fin
 🗂️ Organized structure (Static & Dynamic modules)
 ⚡ Fast and responsive design
 
+🛠️ Technologies Used
+Frontend
+HTML5
+CSS3
+JavaScript
+Backend (Dynamic-Site)
+PHP
+MySQL
+
+
+📁 Project Structure
+HouseManager/
+│
+├── Dynamic-Site/        # Backend + Database connected files
+├── Static-Template/     # Frontend UI templates
+├── README.md            # Project documentation
+├── house-rental-system-cover.png
