@@ -30,3 +30,21 @@ HouseManager/
 ├── Static-Template/     # Frontend UI templates
 ├── README.md            # Project documentation
 ├── house-rental-system-cover.png
+
+⚙️ Installation & Setup
+1. Clone the Repository
+git clone https://github.com/prakash200514/HouseManager.git
+2. Move to XAMPP Directory
+C:\xampp\htdocs\
+3. Start Server
+Open XAMPP Control Panel
+Start Apache and MySQL
+4. Import Database
+Open phpMyAdmin
+Create a new database (e.g., house_rental)
+Import the SQL file (if available)
+5. Run the Project
+
+Open browser:
+
+http://localhost/HouseManager
