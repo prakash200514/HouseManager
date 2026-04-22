@@ -41,9 +41,9 @@ A simple and efficient House Rental Management System designed to help users fin
   Start Apache and MySQL
   4. Import Database
   Open phpMyAdmin
-Create a new database (e.g., house_rental)
-Import the SQL file (if available)
-5. Run the Project
+  Create a new database (e.g., house_rental)
+  Import the SQL file (if available)
+  5. Run the Project
 
 Open browser:
 
