@@ -33,11 +33,11 @@ A simple and efficient House Rental Management System designed to help users fin
 
 ⚙️ Installation & Setup
   1. Clone the Repository
-git clone https://github.com/prakash200514/HouseManager.git
-2. Move to XAMPP Directory
-C:\xampp\htdocs\
-3. Start Server
-Open XAMPP Control Panel
+  git clone https://github.com/prakash200514/HouseManager.git
+  2. Move to XAMPP Directory
+  C:\xampp\htdocs\
+  3. Start Server
+  Open XAMPP Control Panel
 Start Apache and MySQL
 4. Import Database
 Open phpMyAdmin
