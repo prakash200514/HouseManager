@@ -57,12 +57,12 @@ This project is built for:
   🎓 Academic mini-project / final year project
   🧪 Practicing PHP & MySQL integration
   🔮 Future Improvements
-🛒 Booking system
-💳 Payment integration
-🔐 User authentication system
-📱 Mobile responsive enhancement
-📊 Admin dashboard
-
+ 🛒 Booking system
+ 💳 Payment integration
+ 🔐 User authentication system
+ 📱 Mobile responsive enhancement
+ 📊 Admin dashboard
+ 
 🤝 Contributing
 
 Contributions are welcome!
