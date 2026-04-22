@@ -47,7 +47,8 @@ A simple and efficient House Rental Management System designed to help users fin
 
 Open browser:
 
-http://localhost/HouseManager
+  http://localhost/HouseManager
+  
 🎯 Purpose
 
 This project is built for:
