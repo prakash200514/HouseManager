@@ -53,10 +53,10 @@ Open browser:
 
 This project is built for:
 
-💡 Learning full-stack web development
-🎓 Academic mini-project / final year project
-🧪 Practicing PHP & MySQL integration
-🔮 Future Improvements
+  💡 Learning full-stack web development
+  🎓 Academic mini-project / final year project
+  🧪 Practicing PHP & MySQL integration
+  🔮 Future Improvements
 🛒 Booking system
 💳 Payment integration
 🔐 User authentication system
