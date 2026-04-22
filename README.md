@@ -14,13 +14,13 @@ A simple and efficient House Rental Management System designed to help users fin
 ⚡ Fast and responsive design
 
 🛠️ Technologies Used
-Frontend
-HTML5
-CSS3
-JavaScript
-Backend (Dynamic-Site)
-PHP
-MySQL
+  Frontend
+  HTML5
+  CSS3
+  JavaScript
+  Backend (Dynamic-Site)
+  PHP
+  MySQL
 
 
 📁 Project Structure
