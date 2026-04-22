@@ -24,12 +24,12 @@ A simple and efficient House Rental Management System designed to help users fin
 
 
 📁 Project Structure
-HouseManager/
-│
-├── Dynamic-Site/        # Backend + Database connected files
-├── Static-Template/     # Frontend UI templates
-├── README.md            # Project documentation
-├── house-rental-system-cover.png
+  HouseManager/
+  │
+  ├── Dynamic-Site/        # Backend + Database connected files
+  ├── Static-Template/     # Frontend UI templates
+  ├── README.md            # Project documentation
+  ├── house-rental-system-cover.png
 
 ⚙️ Installation & Setup
 1. Clone the Repository
