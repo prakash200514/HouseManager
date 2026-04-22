@@ -69,10 +69,8 @@ Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
 
 📄 License
-
 This project is open-source and free to use.
 
 👨‍💻 Author
-
 Prakash M
 GitHub: https://github.com/prakash200514
