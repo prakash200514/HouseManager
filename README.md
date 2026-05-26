@@ -60,6 +60,7 @@ This project is built for:
   🧪 Practicing PHP & MySQL integration
   🔮 Future Improvements
   🛒 Booking system
+  📱 Mobile responsive enhancement
   💳 Payment integration
   🔐 User authentication system
   
