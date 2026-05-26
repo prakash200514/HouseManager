@@ -10,7 +10,7 @@ A simple and efficient House Rental Management System designed to help users fin
 🔍 Search and filter properties
 🧾 House details with images and pricing
 👤 User-friendly interface
-🗂️ Organized structure (Static & Dynamic modules)
+
 ⚡ Fast and responsive design
 
 🛠️ Technologies Used
