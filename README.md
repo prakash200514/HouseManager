@@ -62,7 +62,7 @@ This project is built for:
   🛒 Booking system
   💳 Payment integration
   🔐 User authentication system
-  📱 Mobile responsive enhancement
+  
   🗂️ Organized structure (Static & Dynamic modules)
   📊 Admin dashboard
  
