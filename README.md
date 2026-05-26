@@ -23,7 +23,6 @@ A simple and efficient House Rental Management System designed to help users fin
   MySQL
 
 
-=======
 📁 Project Structure
   HouseManager/
   │
