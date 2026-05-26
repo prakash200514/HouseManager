@@ -63,7 +63,7 @@ This project is built for:
   💳 Payment integration
   🔐 User authentication system
   📱 Mobile responsive enhancement
-
+  📊 Admin dashboard
  
 🤝 Contributing
 
