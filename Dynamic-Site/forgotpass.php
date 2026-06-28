@@ -1,4 +1,4 @@
-<?php <tr>
+<?php 
 	include"inc/header.php";
 	Session::chkLogin();
 	
