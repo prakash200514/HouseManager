@@ -5,7 +5,6 @@
 	if($_SERVER['REQUEST_METHOD'] == "POST" && isset($_POST['forgotpass'])){
 		$retrivepassmsg = $usr->retrivePassword($_POST);
 	}
-
 ?>
 <!--Header Section End------------->
 
