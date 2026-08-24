@@ -5,6 +5,6 @@
 	define("DB_PASS", "password");
 	define("DB_NAME", "db_rental");
 ?>
-??
+?
 
 
